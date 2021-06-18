@@ -1,2 +1,5 @@
-# ParcialHerramientasComputacionales
-#jean carlos
+Es un problema lógico de manejo el rendimiento en el tiempo y de atención clientela.
+
+Leer el problema a fondo hasta entenderlo, para saber cuáles son las entradas y que debe retornar, tengo eso en cuenta, primero lo realizo en un cuaderno, esto me ayuda a entenderlo de una forma más rápida y después codifico la solución de manera más sencilla.
+
+Mi programa recibe 7 datos de entrada, 5 tipos entero y 2 tipos string, cada uno de ellos cumple una función, por lo tanto son necesarios, estos también me sirven para ampliar mi solución y para qué la persona que va a usar el código lo pueda entender de una manera más sencilla, de salida imprime una o varias líneas con la información de los productos, para calcular la salida es necesario tener en cuenta varias entradas, por ejemplo me imprime el rol de la persona, número de cédula, código del producto y un valor total, para calcular el valor, es necesario un proceso matemático, el cual incorpora el precio del producto y la cantidad, estas dos entradas se multiplican y se les descuenta un 50% o 20% dependiendo del rol, el cual es otra entrada.
