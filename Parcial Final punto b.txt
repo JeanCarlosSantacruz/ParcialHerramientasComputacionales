@@ -1,0 +1,10 @@
+Parcial Final
+(b)
+1. Que tipo de errores se presentaron o se pueden presentar con su implementación al
+problema?
+* me imprimía toda la información de los productos junta y me toco cambiar esa parte.
+* cuando iba a agregar información del producto a la variable "recibo", lo estaba haciendo con "comas", lo cual me lanzaba
+el siguiente error (TypeError: can only concatenate str (not "tuple") to str)
+
+2. Que estrategias podría usar para solucionar estos errores?
+*en el primer punto me toco reorganizar la estructura y en el segundo para solucionarlo era cambiar la "coma" por un "más"
