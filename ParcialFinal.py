@@ -29,4 +29,4 @@ def descuentos ():
             condicion = False
 
 
-descuentos()
+# descuentos()
